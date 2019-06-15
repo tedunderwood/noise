@@ -44,5 +44,24 @@ hathidirty
 
 Raw data for HathiTrust files.
 
+quadallclean
+-------------
+
+Tabular data files for the clean manually transcribed texts.
+
+quaddirtyweak
+-------------
+
+Tabular data files for the uncorrected optically transcribed texts.
+
+quaddirtystrong
+---------------
+
+Tabular data files for optically transcribed texts that have undergone some simple OCR correction (see **wordcounting**) but still have paratext.
+
+quadcleanstrong
+---------------
+
+Tabular data files for optically transcribed texts that have undergone some simple OCR correction (see **wordcounting**) and have paratext removed.
 
 

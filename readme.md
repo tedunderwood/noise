@@ -13,6 +13,10 @@ corpusbuilding
 
 Code used to compare Gutenberg, TCP-ECCO, and HathiTrust holdings in order to identify a sample of matched files. Also a script I used to download Hathi files.
 
+train
+--------
+Code that actually trains predictive models.
+
 wordcounting
 ------------
 
